@@ -11,7 +11,7 @@ For this project, I analyzed datasets from a cancer drug study using Python and 
 This assignment showcases my ability to process complex data, perform statistical analysis, and communicate findings effectively through clear and visually engaging charts.
 
 ### Resources Used:
-I worked with Angel during a tutor session on the code for my graphs
-Xpert learning assistant to review concepts
-Code from class examples for things like quartiles, outliers, and correlation
-used chatgpt for more indepth explanation of concepts and certain code that I labeled in my script
+I worked with Angel during a tutor session on the code for my graphs,
+Xpert learning assistant to review concepts,
+Code from class examples for things like quartiles, outliers, and correlation,
+and used chatgpt for more indepth explanation of concepts and certain code that I labeled in my script.
