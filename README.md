@@ -9,3 +9,9 @@ For this project, I analyzed a dataset from a cancer drug study using Python and
 - **Critical Thinking**: Compared the effectiveness of cancer drugs using statistical measures and visual analysis, drawing conclusions about consistency, trends, and overall drug performance.
 
 This assignment showcases my ability to process complex data, perform statistical analysis, and communicate findings effectively through clear and visually engaging charts.
+
+### Resources Used:
+I worked with Angel during a tutor session on the code for my graphs
+Xpert learning assistant to review concepts
+Code from class examples for things like quartiles, outliers, and correlation
+used chatgpt for more indepth explanation of concepts and certain code that I labeled in my script
